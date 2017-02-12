@@ -1,0 +1,132 @@
+{
+	"variables": [],
+	"info": {
+		"name": "Chatfuel Lumen Boilerplate",
+		"_postman_id": "d9de0ff9-de4b-f9a7-c3c6-9c6322ee0877",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "localhost/text-messages",
+			"request": {
+				"url": "localhost/text-messages",
+				"method": "POST",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "localhost/image-attachment",
+			"request": {
+				"url": "localhost/image-attachment",
+				"method": "POST",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "localhost/video-attachment",
+			"request": {
+				"url": "localhost/video-attachment",
+				"method": "POST",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "localhost/audio-attachment",
+			"request": {
+				"url": "localhost/audio-attachment",
+				"method": "POST",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "localhost/card-with-buttons",
+			"request": {
+				"url": "localhost/card-with-buttons",
+				"method": "POST",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "localhost/gallery",
+			"request": {
+				"url": "localhost/gallery",
+				"method": "POST",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "localhost/link-block",
+			"request": {
+				"url": "localhost/link-block",
+				"method": "POST",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "localhost/quick-reply",
+			"request": {
+				"url": "localhost/quick-reply",
+				"method": "POST",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "localhost/set-attributes",
+			"request": {
+				"url": "localhost/set-attributes",
+				"method": "POST",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "localhost/set-attributes-silently",
+			"request": {
+				"url": "localhost/set-attributes-silently",
+				"method": "POST",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "localhost/share-call-buttons",
+			"request": {
+				"url": "localhost/share-call-buttons",
+				"method": "POST",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
